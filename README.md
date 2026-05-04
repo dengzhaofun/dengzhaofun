@@ -8,7 +8,7 @@
 <!-- ============ TOP BANNER ============ -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Hi%20there%2C%20I'm%20Botian%20Deng%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Application%20Builder%20%E2%80%A2%20Open%20Source%20Lover&descSize=18&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Hi%20there%2C%20I'm%20Samuel%20Deng%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Application%20Builder%20%E2%80%A2%20Open%20Source%20Lover&descSize=18&descAlignY=58"
     alt="header banner"
   />
 </div>
@@ -39,7 +39,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me &nbsp;|&nbsp; 关于我
 
 ```yaml
-name:        Botian Deng (邓博天)
+name:        Samuel Deng (邓钊)
 role:        Full-Stack & AI Application Engineer
 focus:       [ "LLM apps", "Agentic systems", "Developer tooling", "Web platforms" ]
 currently:   Shipping production-grade AI products end-to-end
